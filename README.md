@@ -41,3 +41,8 @@ Company X had achieved pan-India reach with 30 million active users, but faced s
 • **Modelled conversion funnels**, projecting **22.5% paid user lift** via Indic content.
 • **Optimized tier price elasticity**, projecting a **9.4% drop** in annual churn.
 ```
+
+## Presentation
+
+- [Strategy presentation](strategy_presentation.pptx)
+
